@@ -1,0 +1,29 @@
+{
+  "name": "grunt-ar",
+  "description": "Extract archive files with GNU ar",
+  "version": "0.1.0",
+  "author": "Pierre Rudloff",
+  "bugs": {
+    "url": "https://github.com/Rudloff/grunt-ar/issues"
+  },
+  "dependencies": {
+    "grunt": "~1.0.1"
+  },
+  "devDependencies": {
+    "grunt-fixpack": "~0.1.0",
+    "grunt-jslint": "~1.1.14",
+    "grunt-jsonlint": "~1.1.0"
+  },
+  "homepage": "https://github.com/Rudloff/grunt-ar",
+  "keywords": [
+    "ar",
+    "archives",
+    "gruntplugin"
+  ],
+  "license": "GPL-3.0",
+  "main": "tasks/ar.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rudloff/grunt-ar.git"
+  }
+}
